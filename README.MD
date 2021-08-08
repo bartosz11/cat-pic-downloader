@@ -1,8 +1,9 @@
 ###Cat Downloader - Download cat pictures easily.
 
 
-Make sure you have installed JDK 11 before building. Higher or lower versions won't work <br/>
+Make sure you have installed JDK 11 before building. Higher or lower versions won't work.<br/>
 Git is also required. <br/>
+(i know the program is slow, maybe i'll try to make it faster in the future.)
 
 Build and run instructions for Linux and MacOS: 
 ```shell
